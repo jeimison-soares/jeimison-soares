@@ -4,8 +4,6 @@
 
 ### A Brazilian developer passionate about technology and information security
 
-
-
 <div align="center">
     <a href="https://github.com/jeimison-soares">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeimison-soares&show_icons=true&locale=en" alt="jeimison-soares"/>
@@ -16,7 +14,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeimison.soares@gmail.com)
 [![Linkdin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeimison-soares/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeimisonsoares/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZEVxywkg2g)
 
 ### Languages and Tools:
